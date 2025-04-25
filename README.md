@@ -1,16 +1,50 @@
-# finance_chatbot
+# Finhelp – Your Personal Finance Assistant 🇮🇳
 
-A new Flutter project.
+A simple yet powerful app designed to provide financial advice tailored for Indians. Whether you're seeking basic financial guidance or in-depth insights, this app brings together AI, web scraping, and official resources to help users make smarter money decisions.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+### 🤖 Chatbot for Financial Advice  
+An AI-powered chatbot trained to handle queries related to personal finance, savings, investments, budgeting, and more.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 🔍 Search Official Government Sources  
+Automatically searches the official Government of India finance websites for relevant documents, schemes, and updates.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### 🌐 Web Scraping for Articles  
+Scrapes top articles from the internet using Python tools to gather insights, trends, and expert advice on financial topics.
+
+### 📈 (Coming Soon) Stock Market Integration  
+We’ll be adding APIs to fetch and display stock data, offering users real-time insights into the Indian stock market.
+
+### 💬 (Upcoming) Chat History Support  
+Plan to integrate Firebase and Langchain to persist chat conversations and improve user experience.
+
+---
+
+## 🧱 Tech Stack
+
+| Layer        | Technology              |
+|--------------|--------------------------|
+| Frontend     | Flutter                  |
+| Backend      | Flask (Python)           |
+| AI/Chatbot   | GenAI                    |
+| Scraping     | Selenium, BeautifulSoup  |
+| Chat Storage | Firebase (upcoming)      |
+| NLP Engine   | Langchain (upcoming)     |
+| Stock Data   | Financial APIs (upcoming)|
+
+---
+
+## 🛠 Installation & Setup
+
+### 1. Frontend (Flutter)
+> Coming soon...
+
+### 2. Backend (Flask)
+> Setup instructions will be added soon...
+
+---
+
+
