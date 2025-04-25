@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "652819013537",
+    "project_id": "chatbot-769d3",
+    "storage_bucket": "chatbot-769d3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:652819013537:android:0345410db812ef7fdb35e0",
+        "android_client_info": {
+          "package_name": "com.example.finance_chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4wE4jOt8iGir_5-49n2GLdPd_zrTTuNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
